@@ -4,7 +4,7 @@ Installation Step :
 
     git clone https://github.com/technicaldada/termux-banner
 
-    cd Termux-Banner
+    cd termux-banner
 
     chmod +x requirement.sh
 
