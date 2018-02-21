@@ -2,7 +2,7 @@
 
 Installation Step :
 
-    git clone https://github.com/Bhai4You/Termux-Banner
+    git clone https://github.com/technicaldada/termux-banner
 
     cd Termux-Banner
 
