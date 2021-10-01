@@ -1,4 +1,4 @@
-#Script by Technical Dada
+#Script by Koushik Pal
 
 Installation Step :
 
