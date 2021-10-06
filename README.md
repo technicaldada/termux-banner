@@ -13,3 +13,5 @@ Installation Step :
     bash requirement.sh
 
     bash t-ban.sh
+
+Thank You For Installing 😄
