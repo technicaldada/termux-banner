@@ -2,7 +2,7 @@
 
 Installation Step :
 
-    git clone https://github.com/technicaldada/T-banner
+    git clone https://github.com/israelezekiel/T-banner
 
     cd T-banner
 
