@@ -1,10 +1,10 @@
-#Script by Koushik Pal
+#Script by Israelezekiel
 
 Installation Step :
 
-    git clone https://github.com/technicaldada/termux-banner
+    git clone https://github.com/israelezekiel/T-banner
 
-    cd termux-banner
+    cd T-banner
 
     chmod +x requirement.sh
 
