@@ -2,9 +2,9 @@
 
 Installation Step :
 
-    git clone https://github.com/israelezekiel/T-banner
+    git clone https://github.com/israelezekiel/termux-banner
 
-    cd T-banner
+    cd termux-banner
 
     chmod +x requirement.sh
 
