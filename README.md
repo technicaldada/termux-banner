@@ -2,9 +2,9 @@
 
 Installation Step :
 
-    git clone https://github.com/technicaldada/termux-banner
+    git clone https://github.com/technicaldada/T-banner
 
-    cd termux-banner
+    cd T-banner
 
     chmod +x requirement.sh
 
