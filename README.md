@@ -8,8 +8,8 @@ Installation Step :
 
     chmod +x requirement.sh
 
-    chmod +x t-ban.sh
+    chmod +x israel.sh
 
     bash requirement.sh
 
-    bash t-ban.sh
+    bash israel.sh
