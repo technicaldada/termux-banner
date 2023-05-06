@@ -1,4 +1,4 @@
-#Script by Koushik Pal
+#Script by Israelezekiel
 
 Installation Step :
 
