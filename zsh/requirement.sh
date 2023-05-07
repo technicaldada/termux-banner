@@ -13,8 +13,8 @@ apt install ruby -y
 gem install lolcat
 figlet -f big Done !!! | lolcat
 echo
-echo -e "\e[1m Now Run \e[32mbash t-ban.sh\e[0m...!!!"
+echo -e "\e[1m Now Run \e[32mbash israel.sh\e[0m...!!!"
 echo
-echo -e "\e[1m\e[32m Developed by :\e[33m Technical Dada (KP)"
+echo -e "\e[1m\e[32m Developed by :\e[33m Israel_hack's (KP)"
 echo
 echo
