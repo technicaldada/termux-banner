@@ -3,7 +3,7 @@
 #
 # Termux Banner
 # Banner by Koushik Pal (KP)
-# _____Do Not Copy Or Modify_____
+# _____Do Not Copy Or Modify, Otherwise I will sue you copyright_____
 #
 #
 clear
